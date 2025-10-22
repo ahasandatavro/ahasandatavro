@@ -93,11 +93,9 @@ const nadia = {
 
 ## What I Deliver
 
-</div>
-
-<table>
+<table align="center" style="margin: auto;">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Frontend Excellence
 - Pixel-perfect Figma → Code conversion
@@ -107,7 +105,7 @@ const nadia = {
 - Real-time interactive features
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Backend & Infrastructure
 - Scalable REST & GraphQL APIs
@@ -119,7 +117,7 @@ const nadia = {
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Location & Maps
 - Google Maps integration
@@ -128,7 +126,7 @@ const nadia = {
 - Location-based features
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Deployment & More
 - CI/CD pipeline setup
@@ -140,6 +138,9 @@ const nadia = {
 </td>
 </tr>
 </table>
+
+</div>
+
 
 ---
 
@@ -211,18 +212,18 @@ const nadia = {
 
 <table>
   <tr>
-    <td align="center" width="100%">
+    <td align="center" width="50%">
       <img width="100%" src="https://github.com/user-attachments/assets/6960df07-8503-454f-a164-0f0233e08046" alt="Client Review 1" />
     </td>
-    <td align="center" width="100%">
+    <td align="center" width="50%">
       <img width="100%" src="https://github.com/user-attachments/assets/e9ee68a5-9557-4459-9ce8-d4a4622195a4" alt="Client Review 2" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="100%">
+    <td align="center" width="50%">
       <img width="100%" src="https://github.com/user-attachments/assets/e092c2e7-083e-4e4b-8014-8c7e21b825f1" alt="Client Review 3" />
     </td>
-    <td align="center" width="100%">
+    <td align="center" width="50%">
       <img width="100%" src="https://github.com/user-attachments/assets/af62d14d-3fe3-4b1b-bfcd-0bddc765730e" alt="Client Review 4" />
     </td>
   </tr>
