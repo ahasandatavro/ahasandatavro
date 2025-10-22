@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Nadia Tabassum
 
-### 🚀 Senior Software Engineer | Full-Stack Developer | Problem Solver
+### Senior Software Engineer | Full Stack Developer| React, NextJs, React Native, NodeJs
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6FDA44&center=true&vCenter=true&repeat=true&width=600&lines=Building+Scalable+Solutions;5%2B+Years+of+Experience;React+%7C+Next.js+%7C+React+Native;Node.js+%7C+Cloud+Architecture;100%25+Job+Success+on+Upwork" alt="Typing SVG" />
 
@@ -18,7 +18,11 @@
 
 ---
 
-## 🎯 About Me
+<div align="center">
+
+## About Me
+
+</div>
 
 ```typescript
 const nadia = {
@@ -39,7 +43,7 @@ const nadia = {
 
 <div align="center">
 
-### 💼 I transform ideas into production-ready applications
+### I transform ideas into production-ready applications
 
 **From Figma designs to deployed solutions** | **Real-time systems** | **Mobile & Web**
 
@@ -47,7 +51,11 @@ const nadia = {
 
 ---
 
-## 🛠️ Technology Arsenal
+<div align="center">
+
+## Technology Arsenal
+
+</div>
 
 <div align="center">
 
@@ -81,49 +89,53 @@ const nadia = {
 
 ---
 
-## 🎨 What I Deliver
+<div align="center">
+
+## What I Deliver
+
+</div>
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎯 Frontend Excellence
-- ✨ Pixel-perfect Figma → Code conversion
-- 📱 Cross-platform mobile apps (iOS & Android)
-- ⚡ High-performance web applications
-- 🎭 Stunning UI/UX implementations
-- 🔄 Real-time interactive features
+### Frontend Excellence
+- Pixel-perfect Figma → Code conversion
+- Cross-platform mobile apps (iOS & Android)
+- High-performance web applications
+- Stunning UI/UX implementations
+- Real-time interactive features
 
 </td>
 <td width="50%">
 
-### 🔧 Backend & Infrastructure
-- 🏗️ Scalable REST & GraphQL APIs
-- ☁️ AWS/Cloud architecture setup
-- 🔐 Authentication & authorization (SSO, JWT, OAuth)
-- 💳 Payment gateway integration (Stripe, RazorPay)
-- 📡 Real-time chat (Socket.io, Firebase, Twilio)
+### Backend & Infrastructure
+- Scalable REST & GraphQL APIs
+- AWS/Cloud architecture setup
+- Authentication & authorization (SSO, JWT, OAuth)
+- Payment gateway integration (Stripe, RazorPay)
+- Real-time chat (Socket.io, Firebase, Twilio)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📍 Location & Maps
-- 🗺️ Google Maps integration
-- 📍 GPS & geolocation tracking
-- 🚗 Real-time location services
-- 🌐 Location-based features
+### Location & Maps
+- Google Maps integration
+- GPS & geolocation tracking
+- Real-time location services
+- Location-based features
 
 </td>
 <td width="50%">
 
-### 🚀 Deployment & More
-- 📦 CI/CD pipeline setup
-- 📱 Google Play Store deployment
-- 🔔 Push notifications
-- 🐛 Complex bug fixing & refactoring
-- 📊 Data scraping & automation
+### Deployment & More
+- CI/CD pipeline setup
+- Google Play Store deployment
+- Push notifications
+- Complex bug fixing & refactoring
+- Data scraping & automation
 
 </td>
 </tr>
@@ -131,7 +143,11 @@ const nadia = {
 
 ---
 
-## 📈 GitHub Performance
+<div align="center">
+
+## GitHub Performance
+
+</div>
 
 <div align="center">
 
@@ -144,7 +160,11 @@ const nadia = {
 
 ---
 
-## 🏆 Upwork Excellence
+<div align="center">
+
+## Upwork Excellence
+
+</div>
 
 <div align="center">
 
@@ -156,10 +176,10 @@ const nadia = {
 
 <br><br>
 
-| 🎯 Metric | 📊 Value |
+| Metric | Value |
 |-----------|----------|
-| **Job Success Score** | 💯 100% |
-| **Total Hours** | ⏱️ 1000+ |
+| **Job Success Score** | 100% |
+| **Total Hours** | 1000+ |
 | **Client Rating** | ⭐⭐⭐⭐⭐ (5.0 Consistent) |
 | **Long-term Clients** | 🤝 Multiple ongoing partnerships |
 
@@ -175,7 +195,11 @@ const nadia = {
 
 ---
 
-## 💬 Client Testimonials
+<div align="center">
+
+## Client Testimonials
+
+</div>
 
 <div align="center">
 
@@ -183,24 +207,29 @@ const nadia = {
 
 <br>
 
+<div align="center">
+
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="100%">
       <img width="100%" src="https://github.com/user-attachments/assets/6960df07-8503-454f-a164-0f0233e08046" alt="Client Review 1" />
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="100%">
       <img width="100%" src="https://github.com/user-attachments/assets/e9ee68a5-9557-4459-9ce8-d4a4622195a4" alt="Client Review 2" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="100%">
       <img width="100%" src="https://github.com/user-attachments/assets/e092c2e7-083e-4e4b-8014-8c7e21b825f1" alt="Client Review 3" />
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="100%">
       <img width="100%" src="https://github.com/user-attachments/assets/af62d14d-3fe3-4b1b-bfcd-0bddc765730e" alt="Client Review 4" />
     </td>
   </tr>
 </table>
+
+</div>
+
 
 <br>
 
@@ -214,7 +243,11 @@ const nadia = {
 
 ---
 
-## 🎯 Industry Experience
+<div align="center">
+
+## Industry Experience
+
+</div>
 
 <div align="center">
 
@@ -247,11 +280,15 @@ mindmap
 
 ---
 
-## 🌐 Let's Connect
+<div align="center">
+
+## Let's Connect
+
+</div>
 
 <div align="center">
 
-### 📫 Get in touch with me!
+### Get in touch with me!
 
 <br>
 
